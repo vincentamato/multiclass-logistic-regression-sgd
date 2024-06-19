@@ -1,4 +1,4 @@
-# Multiclass Logistic Regression with Stochastic Gradient Descent
+# Multi-Class Logistic Regression with Stochastic Gradient Descent
 
 This is a simple and straightforward project to predict hand-written digits using a multi-class logisitc regression implemented with stochastic gradient descent. The model is trained on the MNIST dataset.
 
