@@ -1,6 +1,6 @@
 # Multiclass Logistic Regression with Stochastic Gradient Descent
 
-This project implements logistic regression to classify data using stochastic gradient descent (SGD). It is designed to provide a hands-on understanding of the optimization process involved in training a logistic regression model.
+This is a simple and straightforward project to predict hand-written digits using a multi-class logisitc regression implemented with stochastic gradient descent. The model is trained on the MNIST dataset.
 
 ## Design Choices
 **Stochastic Gradient Descent:** I chose to use SGD because it is efficient for large datasets and can be extended to other machine learning algorithms. It allows for incremental updates, making it faster and more scalable compared to traditional gradient descent.
